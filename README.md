@@ -1,4 +1,4 @@
-# ☁️ AWS Toolkit
+# AWS Toolkit
 
 Despliegue del sys-admin toolkit en infraestructura cloud de AWS.
 
