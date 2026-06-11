@@ -35,7 +35,7 @@ Security Groups — firewall por servicio: ec2-web-sg expone los puertos 22, 80 
 rds-postgres-sg solo acepta conexiones PostgreSQL desde ec2-web-sg.
 VPC — red privada aislada con subred pública para EC2 y subred privada para RDS.
 
-**Aplicación**
+### Aplicación
 
 FastAPI — API REST con Swagger UI accesible en /docs.
 Redis — caché de resultados del parseo de logs SSH.
